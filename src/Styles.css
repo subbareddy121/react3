@@ -1,0 +1,44 @@
+.App{
+    background-image: linear-gradient(to right, #fc5c7d, #6a82fb);  
+    height: 800px;
+}
+#main{
+
+    color: black;
+}
+label{
+    color: black;
+    font-size: 25px;
+}
+input{
+    height: 30px;
+    width: 150px;
+    border-radius: 15px;
+}
+#submit{
+    background-image: linear-gradient(to right, #00b4db, #0083b0);
+    color: black;
+    font-size: 20px;
+}
+.box{
+
+    margin-top: 70px;
+    border: 5px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.box1{
+    background-color: skyblue;
+    border: 2px solid black;
+    color: rgb(214, 16, 16);
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+button{
+    background-image: linear-gradient(to right, #00b4db, #0083b0);
+    color: black;
+    font-size: 20px;
+}
